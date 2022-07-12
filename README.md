@@ -26,12 +26,12 @@ The following are the types of objects/entities used in the simulation.
 - Is a map of City objects with a key being the name of the city. This disallows duplicate cities being mapped into the world
 
 
-### Prerequisite
+## Prerequisite
 
 Setup [Golang](https://golang.org/doc/install)
   
   
-### Usage
+## Usage
 Clone the repository
 
 ```bash
@@ -41,7 +41,7 @@ cd mad-alien-invasion
 
   
 
-### Run
+## Run
 Getting started
 ```
 $ go run main.go -aliens 20
