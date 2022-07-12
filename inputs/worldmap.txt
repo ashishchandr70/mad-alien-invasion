@@ -1,0 +1,30 @@
+Denalmo north=Agixo-A south=Amolusnisnu east=Elolesme west=Migina
+Asnu north=Ago-Mo south=Emexisno east=Dinexe west=Amiximine
+Esmosno north=Emexege south=Anegu east=Axesminilmo west=Dosmolixo
+Age north=Enusmu south=Amilolna east=Mo-Mulu west=Amagagiga
+Axagene north=Exala south=Deniniga east=Digeno west=Asmudu
+Disminixisnu north=Dexanu south=Ego-Ale east=Axo-Elu west=Misninu
+Dudaxo north=Dasnaxo south=Enisma east=Damena west=Asnelne
+Elnilminigu south=Elodenina east=Dusmola west=Mo-Miga
+Dixano north=Emudesme south=Demene east=Mosmigu west=Egexude
+Alegina north=Asmanismu south=Asnusnila east=Mesnodige west=Mulina
+Danixa north=Mu-Asme south=Milosmu east=Dagasmisno west=Alixude
+Emosmino north=Dixudiniga south=Emo-Exina east=Asnanixa west=Dagamila
+Elnesnila north=Daxo-De south=Agulmo east=Examaxa west=Dexudo
+Dusmodila north=Mulneme south=Anigime east=Magega west=Musnexo
+Esnusmu north=Egudilma south=Amexo-E west=Agixaginu
+Mo-Mimo north=Mudimo south=Mulule east=Mesmega west=Axo-Ma
+Mosnino north=Mulemo south=Esmesme east=Minimixixe west=Magaxila
+Do-De north=Musmusno south=Almamu east=Danenu west=Asmesma
+Mosmilna north=Amamile south=Enaxamixa east=Alagagimo west=Megosmimu
+Migusma north=Mosmisme south=Musminina east=Migexe west=Amenigu
+Menisnile north=Molusnu south=Egolma east=Dudisne west=Exexalinu
+Amodalo north=Egimu-Du south=Exo-Do east=Dodosmilne west=Digolismo
+Elaxa north=Esnano south=Magesmo east=Anudelixu west=Asnile
+Asmame north=Elemudinigilo south=Musmasne east=Megaxe west=Exegixo
+Mo-Dilmu north=Asnamo south=Alnudixa east=Milnamo west=Exudeno
+Dexema north=Dagemo south=Asmisne east=Muliga west=Asnixu
+Esnisnixe north=Exu-Alisme south=Amaxage east=Digo west=Enigixa
+Egenu north=Alexanu south=Dusmixe east=Mimulixe west=Axilu-Minilmo
+Emu-Ega north=Masme south=Masma east=Mixolixe west=Digila
+Exosnilo north=Dime south=Egigeno east=Dulisna west=Mege
